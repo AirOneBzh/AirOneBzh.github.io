@@ -1,5 +1,5 @@
 # Qui suis-je?
-Je suis Erwan étudiant en informatique membre de TeamZNG des amis
+Je suis Erwan étudiant en informatique membre de TeamZNG
 
 #### Ce que je code
 Je code en général du **C** mais je sais coder également du *html*
