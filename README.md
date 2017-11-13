@@ -8,3 +8,4 @@ Dans le passé j'ai également coder en python
 [ZkipBoGA](https://aironebzh.github.io/ZkipBoGA)
 Le jeu de cartes SkipBo codé par nos soins  
 [ZNGafn](https://aironebzh.github.io/ZNGafn)
+Un programme qui déterminisera un automate et dira si un mot est reconnu par celui-ci ou pas.
